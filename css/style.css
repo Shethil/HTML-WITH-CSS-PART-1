@@ -1,0 +1,86 @@
+h1{
+	
+	color: red;
+}
+
+/* element / tag */
+h3{
+	color: red;
+}
+
+/*class*/
+
+.head3{
+    border: black dashed 2px; 
+	color: green;
+}
+
+/*id*/
+
+#color{
+	color: blue;
+}
+
+.box{
+	width: 100%;
+	height : 100px;
+	background-color: blue;
+}
+
+.header{
+
+	min-height: 150px;
+	background-color: red;
+}
+
+.wrapper{
+  overflow: hidden;
+}
+
+.contact{
+	float: left;
+	width: 70%;
+    min-height: 500px;
+	background-color: blue;
+}
+
+.blog{
+	float: right;
+	width: 30%;
+	min-height: 500px;
+	background-color: green;
+}
+
+
+.wide{
+	height: 400px;
+	float: left;
+	width: 33.33%
+}
+
+.tomato{
+   
+   background-color: tomato;
+}
+
+.olive{
+   
+   background-color: olive;
+}
+
+.cyan{
+   
+   background-color: cyan;
+}
+
+.footer{
+    
+    /*clear: both;*/
+	min-height: 100px;
+	background-color: black;
+}
+
+.font{
+	font-size: 40px;
+}
+
